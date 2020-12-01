@@ -3,7 +3,7 @@
 For breakfast I ate a bowl of Crunchy Nut Corn Flakes and a soft bake
 
 # Link to my Linkedin profile!
-[Ewan Jones on Linkedin] (https://www.linkedin.com/in/ewan-jones-b906761b8/)
+- [Ewan Jones on Linkedin](https://www.linkedin.com/in/ewan-jones-b906761b8/)
 
 # Picture of an octocat!
 ![Image of OctoCatKenobi](https://github.com/EwanTheDJ/Week10_Demo/blob/main/Octocat%20Obi%20Wan.jpg)

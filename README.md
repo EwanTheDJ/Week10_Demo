@@ -17,11 +17,11 @@ https://www.linkedin.com/in/ewan-jones-b906761b8/
 
 # Checklist of things to do for Pro Dev
 
-[ ] Essay Assignment Due Friday 18th
+-[ ] Essay assignment due Friday 18th
 
-[ ] Website showcasing portfolio and pro social media
+/-[ ] Website showcasing portfolio and pro social media
 
-[x] The Week 10 Demo README file
+/-[x] The Week 10 Demo README file
 
 # A snippet of code from Game Engine Creation
 Its quiet... too quiet :shipit:
